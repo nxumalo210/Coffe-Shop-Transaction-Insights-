@@ -3,7 +3,4 @@ These are some data visualizations that I did with a data set found on Kaggle. I
 I created this dataset to show how popular each item is relative to one another. 
 
 Tools Used: 
-I used Python and mainly focused on the following packages:
-  matplotlib
-  pandas
-  numpy
+This was coded in python with the packages matplotlib, pandas, and numpy being the main focus. 
